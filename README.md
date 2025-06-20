@@ -58,7 +58,7 @@ Perfect for:
 
 ### Complete Rainwater Harvesting System
 
-![Rainwater Harvesting System](image1-placeholder.jpg)
+![Rainwater Harvesting System](https://github.com/HorizonHnk/Rainwater-Harvesting-System-with-PWM-Pump-Controller/blob/main/Electronic%20Part.png?raw=true)
 
 **System Overview:**
 This diagram shows the complete rainwater collection and storage system including:
